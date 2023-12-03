@@ -25,7 +25,7 @@ To view the portfolio, visit the live demo [here](link-to-live-demo).
 Contributions and suggestions are welcome! If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request in the repository.
 
 ## Contact Information
-For any inquiries or collaborations, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or collaborations, feel free to contact me at [youssefbaghrous1@gmail.com](mailto:your-email@example.com).
 
 Thank you for visiting my portfolio!
 
